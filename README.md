@@ -93,46 +93,6 @@ print(me.current_focus())
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vamsz&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vamsz/vamsz/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vamsz/vamsz/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vamsz/vamsz/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
----
-
-## 🎯 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/vamsz/VQF">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsz&repo=VQF&theme=radical&hide_border=true&bg_color=0D1117&title_color=1CE7F7&icon_color=1CE7F7" />
-  </a>
-  <a href="https://github.com/vamsz/ML">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsz&repo=ML&theme=radical&hide_border=true&bg_color=0D1117&title_color=1CE7F7&icon_color=1CE7F7" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vamsz/quantum_computing_python_basics">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsz&repo=quantum_computing_python_basics&theme=radical&hide_border=true&bg_color=0D1117&title_color=1CE7F7&icon_color=1CE7F7" />
-  </a>
-  <a href="https://github.com/vamsz/SOCKET_PROG-C">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsz&repo=SOCKET_PROG-C&theme=radical&hide_border=true&bg_color=0D1117&title_color=1CE7F7&icon_color=1CE7F7" />
-  </a>
-</p>
-
----
-
 ## 💭 Random Dev Quote
 
 <div align="center">
