@@ -1,171 +1,154 @@
-# Hi there, I'm AdHd hackzz 👋
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+ML+Enthusiast;Quantum+Computing+Explorer;Building+the+Future+with+Code)](https://git.io/typing-svg)
-
-</div>
-
-## 🚀 About Me
-
-```python
-class AdHdHackzz:
-    def __init__(self):
-        self.username = "vamsz"
-        self.name = "AdHd hackzz"
-        self.role = "Developer | ML Enthusiast | Quantum Computing Explorer"
-        self.interests = ["Machine Learning", "Quantum Computing", "Socket Programming"]
-        self.currently_learning = ["Advanced ML Algorithms", "Quantum Gates", "System Design"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = AdHdHackzz()
-me.say_hi()
-```
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+# 🌌 Welcome to My Digital Universe
 
-### ML/AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there!+I'm+AdHd+hackzz+%F0%9F%91%8B;Full+Stack+Dev+%7C+ML+%7C+Quantum+%F0%9F%9A%80;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
 
-### Quantum Computing
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![OpenQASM](https://img.shields.io/badge/OpenQASM-4B0082?style=for-the-badge&logo=quantum&logoColor=white)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/hackzz18)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/home)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vamsipreetham1802)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vamsz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsz&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsz&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vamsz&theme=github-compact&hide_border=true&bg_color=0D1117&color=A277FF&line=61DAFB&point=FFFFFF" alt="Contribution Graph"/>
-</div>
-
-## 🐍 Watch the Snake Eat My Contributions!
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vamsz/vamsz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vamsz/vamsz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vamsz/vamsz/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vamsz&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
-## 💡 Featured Projects
-
-<div align="center">
-
-[![VQF](https://github-readme-stats.vercel.app/api/pin/?username=vamsz&repo=VQF&theme=midnight-purple&hide_border=true&bg_color=0D1117)](https://github.com/vamsz/VQF)
-[![ML](https://github-readme-stats.vercel.app/api/pin/?username=vamsz&repo=ML&theme=midnight-purple&hide_border=true&bg_color=0D1117)](https://github.com/vamsz/ML)
-
-[![Quantum Computing](https://github-readme-stats.vercel.app/api/pin/?username=vamsz&repo=quantum_computing_python_basics&theme=midnight-purple&hide_border=true&bg_color=0D1117)](https://github.com/vamsz/quantum_computing_python_basics)
-[![Socket Programming](https://github-readme-stats.vercel.app/api/pin/?username=vamsz&repo=SOCKET_PROG-C&theme=midnight-purple&hide_border=true&bg_color=0D1117)](https://github.com/vamsz/SOCKET_PROG-C)
-
-</div>
-
-## 🎯 Current Focus
-
-```mermaid
-mindmap
-  root((AdHd hackzz))
-    Machine Learning
-      Deep Learning
-      Neural Networks
-      NLP
-    Quantum Computing
-      Quantum Algorithms
-      Qiskit Development
-      Quantum Gates
-    System Programming
-      Socket Programming
-      Low Level C
-    Open Source
-      Contributing
-      Learning
-```
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vamsz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamsz)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vamsz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-## 🎵 Spotify Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-vamsz.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
-
-</div>
-
-## 👀 Profile Views
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=vamsz&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=vamsz&color=00F7FF&style=flat-square)
 
 </div>
 
 ---
 
-<div align="center">
-  
-### 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
+## 💫 About Me
 
-**⭐️ From [vamsz](https://github.com/vamsz)**
+```javascript
+const AdHdHackzz = {
+    username: "vamsz",
+    name: "AdHd hackzz",
+    location: "India 🇮🇳",
+    current: "Exploring the Quantum Realm",
+    interests: ["Machine Learning", "Quantum Computing", "Cybersecurity", "Socket Programming"],
+    learning: ["Advanced ML", "Quantum Algorithms", "System Architecture"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😎",
+    
+    code() {
+        while(alive) {
+            eat();
+            sleep();
+            code();
+            repeat();
+        }
+    }
+};
+```
+
+---
+
+## 🔥 My Arsenal
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Languages
+```text
+Python       ████████████████░░░  85%
+C            ███████████░░░░░░░░  60%
+JavaScript   ██████████░░░░░░░░░  55%
+OpenQASM     ████████░░░░░░░░░░░  45%
+```
+
+</td>
+<td width="50%">
+
+### 🚀 Domains
+```text
+Machine Learning      ████████████████░░░  82%
+Quantum Computing     █████████████░░░░░░  68%
+Socket Programming    ██████████░░░░░░░░░  58%
+Cybersecurity         ████████████░░░░░░░  65%
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vamsz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsz&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=vamsz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" alt="Activity Graph"/>
+</p>
+
+---
+
+## 🏆 Achievements Unlocked
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vamsz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vamsz/vamsz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vamsz/vamsz/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vamsz/vamsz/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+## 🎯 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/vamsz/VQF">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsz&repo=VQF&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+</a>
+
+<a href="https://github.com/vamsz/ML">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsz&repo=ML&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+</a>
+
+<a href="https://github.com/vamsz/quantum_computing_python_basics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsz&repo=quantum_computing_python_basics&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+</a>
+
+<a href="https://github.com/vamsz/SOCKET_PROG-C">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsz&repo=SOCKET_PROG-C&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+</a>
 
 </div>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 💻 Random Dev Wisdom
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 📈 Contribution Timeline
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+
+### 💬 *"In a world of 1s and 0s, be a quantum superposition"* ⚛️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" width="100%"/>
+
+**Made with 💙 and lots of ☕**
+
+</div>
