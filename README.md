@@ -155,23 +155,6 @@ hacker.exploit();
 └─$ python3 github_analyzer.py --target=vamsz --verbose
 ```
 
-### 🎯 RECONNAISSANCE DATA
-
-</div>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vamsz&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=39FF14&border_radius=8&custom_title=▸+SYSTEM+STATS" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsz&theme=black-ice&hide_border=true&background=000000&stroke=39FF14&ring=39FF14&fire=FF0000&currStreakLabel=39FF14&sideLabels=39FF14&dates=FFFFFF&border_radius=8" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsz&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14&border_radius=8&custom_title=▸+CODE+DISTRIBUTION" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vamsz&theme=green_dark&utcOffset=5.5" />
-</p>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vamsz&theme=github-compact&hide_border=true&bg_color=000000&color=39FF14&line=39FF14&point=FF0000&area=true&custom_title=▸+ACTIVITY+GRAPH&height=300" />
-
----
 
 <div align="center">
 
